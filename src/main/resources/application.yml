@@ -1,0 +1,11 @@
+server:
+  port: 8099
+
+spring:
+  main:
+    banner-mode: off
+
+logging:
+  level:
+    org.springframework: DEBUG
+    eu.shagov: DEBUG
