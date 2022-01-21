@@ -39,7 +39,7 @@
         <java.version>11</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <h2.version>1.4.200</h2.version>
+        <h2.version>2.1.210</h2.version>
         <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
         <java-jwt.version>3.4.0</java-jwt.version>
         <jjwt.version>0.10.6</jjwt.version>
